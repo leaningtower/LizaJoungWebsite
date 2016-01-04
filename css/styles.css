@@ -1,0 +1,133 @@
+
+/* Background */
+body{
+	background-color: #F3F1F6;
+}
+
+/* Liza Joung: */
+#titleName {
+	text-align:center;
+	font-family:CarroisGothicSC-Regular;
+	font-size: 100px;
+	color: #FFFFFF;
+	text-shadow: 0px 2px 4px rgba(0,0,0,0.50);
+	margin: 50px 0px 40px 0px;
+}
+
+/* Navbar */
+.navbar{
+	min-height: 10px;
+	max-height: 40px;
+	border: transparent;
+	margin-bottom: 50px;
+}
+
+.nav, .navbar-nav {
+	display: inline-block;
+    float: none;
+}
+
+.nav, .navbar-default {
+	z-index: 999;
+}
+
+.navbar-nav>li>a {
+	padding-top: 5px;
+	padding-bottom: 0px;
+}
+
+.navbar-collapse {
+	text-align: center;
+	background: #FFFFFF;
+}
+
+.navbarBottomLeft {
+	margin: 0px 300px 0px 0px;
+}
+
+.navbarBottomRight {
+	margin: 0px 0px 0px 300px;
+}
+
+/* Navbar list items */
+li {
+	min-width: 150px;
+	font-family: KaushanScript-Regular;
+	color: rgba(0,0,0,0.40);
+	height: auto;
+}
+
+/* Body for Home Page*/
+#titleProject {
+	font-family: CarroisGothicSC-Regular;
+	text-align: left;
+	font-size: 20px;
+	margin: 50px 0px 0px 0px;
+}
+
+#titleDate {
+	font-family: CarroisGothicSC-Regular;
+	text-align: left;
+	font-size: 14px;
+}
+
+#titleDescription {
+	font-family: ArialUnicodeMS;
+	text-align: right;
+	font-size: 14px;
+	margin: 50px 0px 40px 0px;
+}
+
+/* Body for Work Page*/
+#titleWorkProject {
+	font-family: CarroisGothicSC-Regular;
+	text-align: center;
+	font-size: 30px;
+	margin: 0px 0px 50px 0px;
+}
+
+#titleWorkDescription {
+	font-family: ArialUnicodeMS;
+	text-align: center;
+	font-size: 14px;
+	margin: 30px 0px 30px 0px;
+}
+
+#aboutDescription {
+	margin: 30px 0px 50px 0px;
+	text-align: center;
+}
+
+.leftbutton {
+	float: left;
+	font-family: KaushanScript-Regular;
+	color: rgba(0,0,0,0.70);
+	background-color: #FFFFFF;
+	margin-bottom: 50px;
+}
+
+.rightbutton {
+	float: right;
+	font-family: KaushanScript-Regular;
+	color: rgba(0,0,0,0.70);
+	background-color: #FFFFFF;
+	margin-bottom: 50px;
+}
+
+/*image control on carousel*/
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
+
+.carousel-inner {
+	padding-bottom: 100px;
+}
+
+/*other image controls*/
+.marginimages {
+	padding: 10px;
+}
