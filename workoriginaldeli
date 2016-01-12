@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Title Page</title>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link rel="stylesheet" href="./css/styles.css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+<div class="container-fluid">
+    <!-- This is the header -->
+    <div class="row">
+        <!-- This is my name -->
+        <div class="row">
+            <div class="col-lg-1"> </div>
+            <div class="col-lg-10" >
+                <h1>
+                    <a href="index.html"> <p class="titleName">
+                        Liza Joung
+                    </p></a>
+                </h1>
+            </div>
+            <div class="col-lg-1"></div>
+        </div>
+    </div>
+    <!-- This is for navbar spacing -->
+    <div class="row">
+        <div class="col-sm-1"></div>
+        <div class="col-sm-10">
+            <!-- This is the navigation -->
+            <nav class="navbar navbar-default">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <!-- <a class="navbar-brand" href="#">Work</a> -->
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                        <span class="sr-only">(current)</span></a></li>
+                        <li><a href="work.html">Work</a></li><li><a href="blog.html">Blog</a></li><li><a href="about.html">About</a></li><li><a href="contact.html">Contact</a>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+        <div class="col-sm-1"></div>
+    </div>
+    <!-- This is the body -->
+    <div class="row">
+        <div class="col-sm-1"></div>
+        <div class="col-sm-10">
+            <p id="titleWorkProject">
+                The Original Deli Menu
+            </p>
+        </div>
+        <div class="col-sm-1"></div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-1"></div>
+        <div class="col-sm-10">
+            <img src="./images/wholemenu.png" class="center-block img-responsive"/>
+        </div>
+        <div class="col-sm-1"></div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-1"></div>
+        <div class="col-sm-10">
+            <p class="titleWorkDescription">
+                Food is an important part of everyone's existence. Even the lack of food contributes to the story of one's life. So when my parents informed me they would be opening a new restaurant I instantly knew that I wanted to design their menu and website. Having a well designed menu is not only a great marketing tool but it is also the first impression of the restaurant. Whether seen online, in paper to-go menus or printed on a big sign in the restaurant itself, the menu sets up the expectations of what the customer should expect from the establishment.
+            </p>
+        </div>
+        <div class="col-sm-1"></div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-1"></div>
+        <div class="col-sm-5">
+            <img src="./images/pokipencil.JPG"  class="center-block img-responsive" />
+        </div>
+        <div class="col-sm-5">
+            <img src="./images/menupencil.JPG"  class="center-block img-responsive" />
+        </div>
+        <div class="col-sm-1"></div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-1"></div>
+        <div class="col-sm-10">
+            <p class="titleWorkDescription">
+                The design specifications were for the menu to be simple and clear. They also wanted to incorporate the color orange if possible. A few layouts were sketched out on paper to see how the information should best be grouped together. I learned it was hard for me to come up with a design when the information was first given to me on a badly designed menu. I ripped apart the reasons why the menu they had did not agree with my design sense and applied those ideas to my redesign. Ultimately the points were as follows:
+                <ol type="1">
+                    <li class="menu">The color palette was jarring when put together.</li>
+                    <li class="menu">The background images took away from the focus of the food items instead of enhancing them.</li>
+                    <li class="menu">The fonts used did not match up with the clean and simple feel that the owners were trying to achieve.</li>
+                    <li class="menu">The information was crowded and overwhelming.</li>
+                </ol>
+            </p>
+        </div>
+        <div class="col-sm-1"></div>
+    </div>
+
+<div class="row">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-5">
+        <img src="./images/bibimbapold.GIF" height="500px" width="400" class="center-block img-responsive" />
+    </div>
+    <div class="col-sm-5">
+        <img src="./images/lunchwrapold.GIF" height="500px" width="400" class="center-block img-responsive" />
+    </div>
+    <div class="col-sm-1"></div>
+</div>
+
+<div class="row">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10">
+        <p class="titleWorkDescription">
+           The design process focused on staying simple and clear while maintaining some kind of orange color within the palette. I thought trying a white background with orange accents would keep the feeling of the restaurant light and fresh. The owners liked the layout and the overall design but wanted to explore different colored background options, specifically black and orange. So I reversed the order and gave them both a darker background and one with orange as the main color. The option with orange did not work well because it took center stage over the food items. I wasn't able to find a shade of orange that wouldn't overwhelm the rest of the page which is the same reason I did not choose jet black as the background color either. Going with a very dark shade of orange/gray, the overall feel of the menu stays true to their simple and clean aesthetic while maintaining the focus on the food items. The darker background was ultimately chosen.
+    </div>
+    <div class="col-sm-1"></div>
+</div>
+
+    <div class="row">
+        <div class="col-sm-1"></div>
+        <div class="col-sm-5">
+            <img src="./images/whitelunchbowl.png" height="500px" width="400" class="center-block img-responsive" />
+        </div>
+        <div class="col-sm-5">
+            <img src="./images/orangelunchbowl.png" height="500px" width="400" class="center-block img-responsive" />
+        </div>
+        <div class="col-sm-1"></div>
+    </div>
+
+<div class="row">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10">
+        <p class="titleWorkDescription">
+            If more time was allowed I would have done comparative research to similar restaurants and weigh the pros and cons of their menus, websites and overall business strategies. I have a feeling that the restaurants with a more focused menu have better sales and stronger customer loyalty but I can't say for certain because of the lack of reserach I was able to conduct. Overall I learned that the design needs to be approved by my customer, even if the direction or content is not something I would go with myself.
+        </p>
+        <p class="titleWorkDescription">
+            A website is currently in the works and will incorporate the menu design to keep the overall look and feel of the restaurant cohesive.
+        </p>
+    </div>
+    <div class="col-sm-1"></div>
+</div>
+
+    <!-- This is for bottom navigation-->
+    <div class="row">
+        <div class="col-sm-1"></div>
+        <div class="col-sm-10">
+            <a href="workwebsite2.html" class="leftbutton">Previous: Professional Website</a>
+            <a href="work.html" class="rightbutton">Next: KnitCount App</a>
+        </div>
+        <div class="col-sm-1"></div>
+    </div>
+
+<!-- jQuery -->
+<script src="http://code.jquery.com/jquery-2.0.0.min.js"></script>
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+</body>
+</html>
