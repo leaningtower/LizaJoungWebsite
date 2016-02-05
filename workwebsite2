@@ -74,7 +74,7 @@
 <div class="row">
     <div class="col-sm-1"></div>
     <div class="col-sm-10">
-        <img src="http://placehold.it/1000x350" class="center-block img-responsive"/>
+        <img src="./images/homewireframe.png" class="center-block img-responsive"/>
     </div>
     <div class="col-sm-1"></div>
 </div>
@@ -120,7 +120,7 @@
         <img src="./images/colorpalette.png" class="center-block img-responsive" />
     </div>
     <div class="col-sm-5">
-        <img src="http://placehold.it/500x250" class="center-block img-responsive" />
+        <img src="./images/fonts.png" class="center-block img-responsive" />
     </div>
     <div class="col-sm-1"></div>
 </div>
