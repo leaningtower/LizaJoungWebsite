@@ -1,4 +1,16 @@
+# Eclipse
+.classpath
+.project
+.settings/
 
-.idea/copyright/profiles_settings.xml
+# Intellij
+.idea/
+*.iml
+*.iws
 
-.idea/copyright/profiles_settings.xml
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
